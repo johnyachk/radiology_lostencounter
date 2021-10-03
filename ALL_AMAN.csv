@@ -1,0 +1,201 @@
+patient_number ,ordering_physician,Department,order_completed,age ,guarantor,gender,nationality ,Date,procedure_time,chief_complaint,ordered_test,order_description,order_amount,latitude,longitude
+29,Dr_H_Ismaeel ,Cardiology,No,9,self ,Male ,American ,9/1/2021,14:58:16,stomatch pain ,X-Ray ,X-ray pelvis,411,25.28545,51.53096
+39,Dr_B_Safadi ,General_Surgery,No,79,self ,Male ,Indian ,9/1/2021,15:58:16,vomiting ,X-Ray ,X-Ray knee,143,25.29194,51.42444
+94,Dr_R_Ahdab ,Neurology,Yes,69,self ,Male ,Lebanese ,9/1/2021,16:58:16,dyspnea ,CT,CT - abdomen ,294,25.41524,51.40647
+84,Dr_A_Haydar,Radiology ,Yes,25,self ,Male ,Lebanese ,9/2/2021,17:58:16,dyspnea ,IR-procedure ,Uterine Fibroid Embolization ,473,25.17151,51.60337
+79,Dr_J_Achkar ,ENT,No,7,self ,Female ,Lebanese ,9/3/2021,18:58:16,dyspnea ,X-Ray ,X-ray head ,114,25.68389,51.50583
+6,Dr_J_Achkar ,ENT,Yes,25,self ,Female ,Qatari ,9/5/2021,19:58:16,stomatch pain ,X-Ray ,X-ray shoulder ,195,25.37088,51.22264
+10,Dr_H_Ismaeel ,Cardiology,Yes,66,self ,Female ,Qatari ,9/8/2021,20:58:16,stomatch pain ,Mammography ,Mammography ,352,25.42485,50.78227
+57,Dr_B_Safadi ,General_Surgery,Yes,11,self ,Male ,Indian ,9/8/2021,21:58:16,chest pain ,X-Ray ,X-Ray knee,431,24.99226,51.55067
+85,Dr_J_Achkar ,ENT,No,18,self ,Male ,Lebanese ,9/8/2021,22:58:16,dyspnea ,CT,X-ray head ,160,26.12933,51.2009
+54,Dr_J_Achkar ,ENT,Yes,8,self ,Male ,Indian ,9/9/2021,23:58:16,chest pain ,X-Ray ,X-ray shoulder ,463,25.15107,51.53718
+99,Dr_R_Ahdab ,Neurology,Yes,41,self ,Male ,Lebanese ,9/12/2021,0:58:16,burn ,Mammography ,Mammography ,469,26.13978,51.21493
+37,Dr_R_Ahdab ,Neurology,Yes,58,self ,Male ,American ,9/14/2021,1:58:16,vomiting ,X-Ray ,X-Ray knee,167,25.21417,50.80722
+51,Dr_O_Dbouni ,ID,No,78,self ,Male ,Indian ,9/16/2021,2:58:16,chest pain ,X-Ray ,X-ray head ,133,25.82882,51.24567
+34,Dr_A_Haydar,Radiology ,Yes,41,self ,Male ,American ,9/18/2021,3:58:16,vomiting ,IR-procedure ,Varicose Veins ,427,25.61068,51.09108
+60,Dr_H_Ismaeel ,Cardiology,Yes,41,self ,Male ,Indian ,9/18/2021,4:58:16,chest pain ,Mammography ,Mammography ,335,26.02565,51.36971
+86,Dr_A_Haydar,Radiology ,Yes,41,self ,Male ,Lebanese ,9/18/2021,5:58:16,dyspnea ,IR-procedure ,Varicocele embolization ,223,24.7437,50.83174
+33,Dr_A_Haydar,Radiology ,No,18,self ,Male ,American ,9/19/2021,6:58:16,vomiting ,IR-procedure ,Varicocele embolization ,257,25.68389,51.50583
+69,Dr_A_Haydar,Radiology ,Yes,66,self ,Male ,Indian ,9/19/2021,7:58:16,chest pain ,IR-procedure ,Varicose Veins ,160,25.37088,51.22264
+40,Dr_H_Ismaeel ,Cardiology,No,82,self ,Male ,Indian ,9/20/2021,8:58:16,vomiting ,X-Ray ,X-Ray knee,435,25.42485,50.78227
+75,Dr_H_Ismaeel ,Cardiology,No,91,self ,Female ,Lebanese ,9/20/2021,9:58:16,dyspnea ,X-Ray ,X-ray head ,261,24.99226,51.55067
+11,Dr_H_Ismaeel ,Cardiology,Yes,58,self ,Female ,Qatari ,9/22/2021,10:58:16,stomatch pain ,X-Ray ,X-ray shoulder ,123,26.12933,51.2009
+59,Dr_F_Zahwa ,Urology ,Yes,18,self ,Male ,Indian ,9/22/2021,11:58:16,chest pain ,Mammography ,Mammography ,360,25.15107,51.53718
+8,Dr_F_Zahwa ,Urology ,No,41,self ,Female ,Qatari ,9/24/2021,12:58:16,stomatch pain ,Mammography ,Mammography ,248,26.13978,51.21493
+47,Dr_F_Zahwa ,Urology ,No,41,self ,Male ,Indian ,9/25/2021,13:58:16,chest pain ,Mammography ,Mammography ,385,25.21417,50.80722
+87,Dr_F_Zahwa ,Urology ,Yes,33,self ,Male ,Lebanese ,9/26/2021,14:58:16,dyspnea ,CT,CT - abdomen ,435,25.82882,51.24567
+73,Dr_F_Zahwa ,Urology ,Yes,41,self ,Female ,Lebanese ,9/29/2021,15:58:16,dyspnea ,Mammography ,Mammography ,437,25.61068,51.09108
+50,Dr_B_Safadi ,General_Surgery,No,88,self ,Male ,Indian ,10/1/2021,16:58:16,chest pain ,Mammography ,Mammography ,388,26.02565,51.36971
+93,Dr_J_Achkar ,ENT,Yes,45,self ,Male ,Lebanese ,10/2/2021,17:58:16,dyspnea ,CT,CT - abdomen ,450,24.7437,50.83174
+64,Dr_J_Achkar ,ENT,No,71,self ,Male ,Indian ,10/3/2021,18:58:16,chest pain ,CT,CT - abdomen ,148,25.57744,51.48306
+65,Dr_B_Safadi ,General_Surgery,No,79,self ,Male ,Indian ,10/3/2021,19:58:16,chest pain ,CT,CT-Brain ,240,25.46972,51.3975
+88,Dr_B_Safadi ,General_Surgery,No,66,self ,Male ,Lebanese ,10/3/2021,20:58:16,dyspnea ,CT,CT - abdomen ,322,25.28545,51.53096
+95,Dr_B_Safadi ,General_Surgery,Yes,66,self ,Male ,Lebanese ,10/4/2021,21:58:16,burn ,CT,CT - abdomen ,393,25.29194,51.42444
+9,Dr_B_Safadi ,General_Surgery,Yes,33,self ,Female ,Qatari ,10/7/2021,22:58:16,stomatch pain ,X-Ray ,X-Ray knee,238,25.41524,51.40647
+70,Dr_R_Ahdab ,Neurology,Yes,75,self ,Male ,Lebanese ,10/7/2021,23:58:16,chest pain ,X-Ray ,X-Ray knee,223,25.17151,51.60337
+5,Dr_O_Dbouni ,ID,No,11,insurance ,Female ,Qatari ,10/8/2021,0:58:16,stomatch pain ,X-Ray ,X-Ray knee,341,25.68389,51.50583
+49,Dr_B_Safadi ,General_Surgery,Yes,91,insurance ,Male ,Indian ,10/8/2021,1:58:16,chest pain ,X-Ray ,X-Ray knee,327,25.37088,51.22264
+74,Dr_B_Safadi ,General_Surgery,No,66,insurance ,Female ,Lebanese ,10/8/2021,2:58:16,dyspnea ,X-Ray ,X-Ray knee,222,25.42485,50.78227
+83,Dr_B_Safadi ,General_Surgery,Yes,11,insurance ,Male ,Lebanese ,10/8/2021,3:58:16,dyspnea ,CT,CT-Brain ,267,24.99226,51.55067
+67,Dr_B_Safadi ,General_Surgery,Yes,45,insurance ,Male ,Indian ,10/10/2021,4:58:16,chest pain ,CT,CT - chest,286,26.12933,51.2009
+92,Dr_B_Safadi ,General_Surgery,Yes,82,insurance ,Male ,Lebanese ,10/10/2021,5:58:16,dyspnea ,CT,CT - abdomen ,357,25.15107,51.53718
+46,Dr_B_Safadi ,General_Surgery,No,15,insurance ,Male ,Indian ,10/13/2021,6:58:16,vomiting ,CT,CT - chest,486,25.29194,51.42444
+53,Dr_B_Safadi ,General_Surgery,No,7,insurance ,Male ,Indian ,10/14/2021,7:58:16,chest pain ,CT,CT - abdomen ,199,25.21417,50.80722
+38,Dr_B_Safadi ,General_Surgery,No,71,insurance ,Male ,American ,10/18/2021,8:58:16,vomiting ,CT,CT - chest,329,25.82882,51.24567
+71,Dr_B_Safadi ,General_Surgery,Yes,79,insurance ,Female ,Lebanese ,10/19/2021,9:58:16,dyspnea ,CT,CT - abdomen ,120,25.61068,51.09108
+7,Dr_B_Safadi ,General_Surgery,No,18,insurance ,Female ,Qatari ,10/20/2021,10:58:16,stomatch pain ,CT,CT - abdomen ,464,26.02565,51.36971
+24,Dr_B_Safadi ,General_Surgery,Yes,88,insurance ,Male ,American ,10/20/2021,11:58:16,stomatch pain ,X-Ray ,X-ray pelvis,133,24.7437,50.83174
+16,Dr_H_Ismaeel ,Cardiology,Yes,69,insurance ,Male ,Qatari ,10/23/2021,12:58:16,stomatch pain ,CT,CT - abdomen ,469,25.57744,51.48306
+18,Dr_H_Ismaeel ,Cardiology,No,75,insurance ,Male ,American ,10/23/2021,13:58:16,stomatch pain ,CT,CT - abdomen ,444,25.46972,51.3975
+78,Dr_H_Ismaeel ,Cardiology,Yes,75,insurance ,Female ,Lebanese ,10/23/2021,14:58:16,dyspnea ,MRI,MRI Brain ,336,25.28545,51.53096
+45,Dr_B_Safadi ,General_Surgery,No,79,insurance ,Male ,Indian ,10/24/2021,15:58:16,vomiting ,CT,CT - abdomen ,373,25.29194,51.42444
+35,Dr_R_Ahdab ,Neurology,No,33,insurance ,Male ,American ,10/26/2021,16:58:16,vomiting ,X-Ray ,X-ray pelvis,118,25.41524,51.40647
+41,Dr_O_Dbouni ,ID,Yes,45,insurance ,Male ,Indian ,10/26/2021,17:58:16,vomiting ,CT,CT - abdomen ,264,25.17151,51.60337
+62,Dr_B_Safadi ,General_Surgery,No,66,insurance ,Male ,Indian ,10/29/2021,18:58:16,chest pain ,MRI,MRI pelvis ,247,25.68389,51.50583
+27,Dr_B_Safadi ,General_Surgery,No,7,insurance ,Male ,American ,11/2/2021,18:58:16,stomatch pain ,MRI,MRI Brain ,258,25.37088,51.22264
+63,Dr_B_Safadi ,General_Surgery,No,58,insurance ,Male ,Indian ,11/2/2021,18:58:16,chest pain ,MRI,MRI pelvis ,382,25.42485,50.78227
+43,Dr_B_Safadi ,General_Surgery,Yes,66,insurance ,Male ,Indian ,11/5/2021,18:58:16,vomiting ,MRI,MRI Brain ,357,24.99226,51.55067
+90,Dr_B_Safadi ,General_Surgery,No,71,insurance ,Male ,Lebanese ,11/10/2021,18:58:16,dyspnea ,MRI,MRI pelvis ,296,26.12933,51.2009
+26,Dr_B_Safadi ,General_Surgery,Yes,75,insurance ,Male ,American ,11/11/2021,18:58:16,stomatch pain ,CT,CT - abdomen ,269,25.15107,51.53718
+31,Dr_A_Haydar,Radiology ,No,11,insurance ,Male ,American ,11/12/2021,0:58:16,vomiting ,IR-procedure ,Varicose Veins ,191,26.13978,51.21493
+36,Dr_A_Haydar,Radiology ,No,66,insurance ,Male ,American ,11/14/2021,1:58:16,vomiting ,IR-procedure ,Uterine Fibroid Embolization ,342,25.21417,50.80722
+42,Dr_A_Haydar,Radiology ,No,69,insurance ,Male ,Indian ,11/17/2021,2:58:16,vomiting ,IR-procedure ,Uterine Fibroid Embolization ,326,25.82882,51.24567
+1,Dr_B_Safadi ,General_Surgery,Yes,7,insurance ,Male ,Qatari ,11/18/2021,3:58:16,stomatch pain ,CT,CT - chest,148,25.61068,51.09108
+44,Dr_B_Safadi ,General_Surgery,Yes,75,insurance ,Male ,Indian ,11/19/2021,4:58:16,vomiting ,Mammography ,Mammography ,400,26.02565,51.36971
+91,Dr_B_Safadi ,General_Surgery,No,79,insurance ,Male ,Lebanese ,11/19/2021,5:58:16,dyspnea ,CT,CT - abdomen ,342,24.7437,50.83174
+17,Dr_B_Safadi ,General_Surgery,No,66,insurance ,Male ,Qatari ,11/20/2021,6:58:16,stomatch pain ,CT,CT - chest,121,25.57744,51.48306
+2,Dr_B_Safadi ,General_Surgery,Yes,8,insurance ,Female ,Qatari ,11/21/2021,8:58:16,stomatch pain ,Mammography ,Mammography ,466,25.46972,51.3975
+22,Dr_B_Safadi ,General_Surgery,Yes,66,insurance ,Male ,American ,11/23/2021,8:58:16,stomatch pain ,CT,CT - abdomen ,122,25.28545,51.53096
+52,Dr_B_Safadi ,General_Surgery,No,75,insurance ,Male ,Indian ,11/23/2021,9:58:16,chest pain ,Mammography ,Mammography ,178,25.29194,51.42444
+72,Dr_J_Achkar ,ENT,No,15,insurance ,Female ,Lebanese ,11/23/2021,10:58:16,dyspnea ,Mammography ,Mammography ,246,25.41524,51.40647
+80,Dr_J_Achkar ,ENT,Yes,8,insurance ,Female ,Lebanese ,11/23/2021,11:58:16,dyspnea ,Mammography ,Mammography ,328,25.17151,51.60337
+30,Dr_J_Achkar ,ENT,Yes,10,insurance ,Male ,American ,11/24/2021,12:58:16,vomiting ,X-Ray ,X-ray pelvis,247,25.68389,51.50583
+15,Dr_B_Safadi ,General_Surgery,Yes,45,insurance ,Male ,Qatari ,11/25/2021,13:58:16,stomatch pain ,CT,CT - chest,284,25.37088,51.22264
+76,Dr_R_Ahdab ,Neurology,No,88,insurance ,Female ,Lebanese ,11/25/2021,14:58:16,dyspnea ,CT,CT - chest,135,25.42485,50.78227
+23,Dr_O_Dbouni ,ID,No,91,insurance ,Male ,American ,11/26/2021,15:58:16,stomatch pain ,MRI,MRI-chest,497,24.99226,51.55067
+19,Dr_R_Ahdab ,Neurology,Yes,79,insurance ,Male ,American ,11/27/2021,16:58:16,stomatch pain ,MRI,MRI-chest,371,26.12933,51.2009
+48,Dr_O_Dbouni ,ID,Yes,66,insurance ,Male ,Indian ,11/27/2021,17:58:16,chest pain ,MRI,MRI shoulder,294,25.15107,51.53718
+68,Dr_B_Safadi ,General_Surgery,No,69,insurance ,Male ,Indian ,11/28/2021,18:58:16,chest pain ,MRI,MRI shoulder,182,26.13978,51.21493
+13,Dr_B_Safadi ,General_Surgery,No,79,insurance ,Female ,Qatari ,11/29/2021,19:58:16,stomatch pain ,MRI,MRI shoulder,372,25.46972,51.3975
+98,Dr_B_Safadi ,General_Surgery,Yes,15,insurance ,Male ,Lebanese ,11/30/2021,19:58:16,burn ,X-Ray ,X-Ray chest ,409,25.28545,51.53096
+55,Dr_B_Safadi ,General_Surgery,No,9,insurance ,Male ,Indian ,12/2/2021,19:58:16,chest pain ,CT,CT - abdomen ,291,25.29194,51.42444
+12,Dr_B_Safadi ,General_Surgery,Yes,71,insurance ,Female ,Qatari ,12/4/2021,19:58:16,stomatch pain ,CT,CT - abdomen ,473,25.41524,51.40647
+14,Dr_R_Ahdab ,Neurology,No,82,insurance ,Female ,Qatari ,12/8/2021,19:58:16,stomatch pain ,CT,CT - abdomen ,442,25.17151,51.60337
+32,Dr_O_Dbouni ,ID,No,25,insurance ,Male ,American ,12/8/2021,0:58:16,vomiting ,X-Ray ,X-ray pelvis,387,25.68389,51.50583
+82,Dr_B_Safadi ,General_Surgery,No,10,insurance ,Female ,Lebanese ,12/8/2021,1:58:16,dyspnea ,CT,CT - abdomen ,353,25.37088,51.22264
+3,Dr_B_Safadi ,General_Surgery,Yes,9,insurance ,Female ,Qatari ,12/10/2021,2:58:16,stomatch pain ,X-Ray ,X-ray shoulder ,188,25.42485,50.78227
+81,Dr_B_Safadi ,General_Surgery,No,9,insurance ,Female ,Lebanese ,12/10/2021,3:58:16,dyspnea ,X-Ray ,X-ray shoulder ,178,24.99226,51.55067
+61,Dr_B_Safadi ,General_Surgery,Yes,33,insurance ,Male ,Indian ,12/11/2021,4:58:16,chest pain ,X-Ray ,X-ray shoulder ,483,25.21417,50.80722
+28,Dr_A_Haydar,Radiology ,No,8,insurance ,Male ,American ,12/15/2021,5:58:16,stomatch pain ,IR-procedure ,Uterine Fibroid Embolization ,419,25.82882,51.24567
+66,Dr_A_Haydar,Radiology ,Yes,82,insurance ,Male ,Indian ,12/15/2021,6:58:16,chest pain ,IR-procedure ,Varicocele embolization ,262,25.61068,51.09108
+89,Dr_R_Ahdab ,Neurology,No,58,insurance ,Male ,Lebanese ,12/16/2021,8:58:16,dyspnea ,MRI,MRI shoulder,220,26.02565,51.36971
+58,Dr_O_Dbouni ,ID,Yes,25,insurance ,Male ,Indian ,12/18/2021,8:58:16,chest pain ,MRI,MRI shoulder,344,24.7437,50.83174
+25,Dr_B_Safadi ,General_Surgery,No,78,insurance ,Male ,American ,12/19/2021,9:58:16,stomatch pain ,MRI,MRI shoulder,227,25.57744,51.48306
+77,Dr_B_Safadi ,General_Surgery,No,78,insurance ,Female ,Lebanese ,12/19/2021,10:58:16,dyspnea ,X-Ray ,X-ray shoulder ,301,25.46972,51.3975
+56,Dr_B_Safadi ,General_Surgery,Yes,10,insurance ,Male ,Indian ,12/20/2021,11:58:16,chest pain ,CT,CT - abdomen ,338,25.28545,51.53096
+21,Dr_B_Safadi ,General_Surgery,Yes,41,insurance ,Male ,American ,12/25/2021,12:58:16,stomatch pain ,CT,CT - chest,164,25.29194,51.42444
+4,Dr_B_Safadi ,General_Surgery,Yes,10,insurance ,Female ,Qatari ,12/26/2021,13:58:16,stomatch pain ,CT,CT - abdomen ,230,25.41524,51.40647
+20,Dr_B_Safadi ,General_Surgery,Yes,15,insurance ,Male ,American ,12/27/2021,14:58:16,stomatch pain ,X-Ray ,X-ray pelvis,111,25.17151,51.60337
+96,Dr_B_Safadi ,General_Surgery,Yes,75,insurance ,Male ,Lebanese ,12/28/2021,15:58:16,burn ,CT,CT - abdomen ,169,25.68389,51.50583
+97,Dr_A_Haydar,Radiology ,No,79,insurance ,Male ,Lebanese ,12/29/2021,16:58:16,burn ,IR-procedure ,Varicocele embolization ,351,25.37088,51.22264
+77,Dr_A_Haydar,Radiology ,Yes,78,insurance ,Female ,Lebanese ,12/19/2021,10:58:16,dyspnea ,IR-procedure ,Varicose Veins ,301,25.37088,51.50583
+29,Dr_H_Ismaeel ,Cardiology,No,9,self ,Male ,American ,9/1/2021,14:58:16,stomatch pain ,CBC,CBC,209,25.28545,51.53096
+39,Dr_B_Safadi ,General_Surgery,No,79,self ,Male ,Indian ,9/1/2021,15:58:16,vomiting ,chem9,chem9,89,25.29194,51.42444
+94,Dr_R_Ahdab ,Neurology,Yes,69,self ,Male ,Lebanese ,9/1/2021,16:58:16,dyspnea ,urine_analysis ,urine_analysis ,102,25.41524,51.40647
+84,Dr_A_Haydar,Radiology ,Yes,25,self ,Male ,Lebanese ,9/2/2021,17:58:16,dyspnea ,PT,PT,246,25.17151,51.60337
+79,Dr_J_Achkar ,ENT,No,7,self ,Female ,Lebanese ,9/3/2021,18:58:16,dyspnea ,PTT,PTT,111,25.68389,51.50583
+6,Dr_J_Achkar ,ENT,Yes,25,self ,Female ,Qatari ,9/5/2021,19:58:16,stomatch pain ,Glucose ,Glucose ,177,25.37088,51.22264
+10,Dr_H_Ismaeel ,Cardiology,Yes,66,self ,Female ,Qatari ,9/8/2021,20:58:16,stomatch pain ,TSH,TSH,163,25.42485,50.78227
+57,Dr_B_Safadi ,General_Surgery,Yes,11,self ,Male ,Indian ,9/8/2021,21:58:16,chest pain ,chem9,chem9,151,24.99226,51.55067
+85,Dr_J_Achkar ,ENT,No,18,self ,Male ,Lebanese ,9/8/2021,22:58:16,dyspnea ,urine_analysis ,urine_analysis ,217,26.12933,51.2009
+54,Dr_J_Achkar ,ENT,Yes,8,self ,Male ,Indian ,9/9/2021,23:58:16,chest pain ,PT,PT,142,25.15107,51.53718
+99,Dr_R_Ahdab ,Neurology,Yes,41,self ,Male ,Lebanese ,9/12/2021,0:58:16,burn ,PTT,PTT,127,26.13978,51.21493
+37,Dr_R_Ahdab ,Neurology,Yes,58,self ,Male ,American ,9/14/2021,1:58:16,vomiting ,Glucose ,Glucose ,57,25.21417,50.80722
+51,Dr_O_Dbouni ,ID,No,78,self ,Male ,Indian ,9/16/2021,2:58:16,chest pain ,TSH,TSH,52,25.82882,51.24567
+34,Dr_A_Haydar,Radiology ,Yes,41,self ,Male ,American ,9/18/2021,3:58:16,vomiting ,chem9,chem9,148,25.61068,51.09108
+60,Dr_H_Ismaeel ,Cardiology,Yes,41,self ,Male ,Indian ,9/18/2021,4:58:16,chest pain ,urine_analysis ,urine_analysis ,188,26.02565,51.36971
+86,Dr_A_Haydar,Radiology ,Yes,41,self ,Male ,Lebanese ,9/18/2021,5:58:16,dyspnea ,PT,PT,158,24.7437,50.83174
+33,Dr_A_Haydar,Radiology ,No,18,self ,Male ,American ,9/19/2021,6:58:16,vomiting ,PTT,PTT,250,25.68389,51.50583
+69,Dr_A_Haydar,Radiology ,Yes,66,self ,Male ,Indian ,9/19/2021,7:58:16,chest pain ,Glucose ,Glucose ,115,25.37088,51.22264
+40,Dr_H_Ismaeel ,Cardiology,No,82,self ,Male ,Indian ,9/20/2021,8:58:16,vomiting ,TSH,TSH,88,25.42485,50.78227
+75,Dr_H_Ismaeel ,Cardiology,No,91,self ,Female ,Lebanese ,9/20/2021,9:58:16,dyspnea ,chem9,chem9,178,24.99226,51.55067
+11,Dr_H_Ismaeel ,Cardiology,Yes,58,self ,Female ,Qatari ,9/22/2021,10:58:16,stomatch pain ,urine_analysis ,urine_analysis ,72,26.12933,51.2009
+59,Dr_F_Zahwa ,Urology ,Yes,18,self ,Male ,Indian ,9/22/2021,11:58:16,chest pain ,PT,PT,86,25.15107,51.53718
+8,Dr_F_Zahwa ,Urology ,No,41,self ,Female ,Qatari ,9/24/2021,12:58:16,stomatch pain ,PTT,PTT,129,26.13978,51.21493
+47,Dr_F_Zahwa ,Urology ,No,41,self ,Male ,Indian ,9/25/2021,13:58:16,chest pain ,Glucose ,Glucose ,155,25.21417,50.80722
+87,Dr_F_Zahwa ,Urology ,Yes,33,self ,Male ,Lebanese ,9/26/2021,14:58:16,dyspnea ,Glucose ,Glucose ,163,25.82882,51.24567
+73,Dr_F_Zahwa ,Urology ,Yes,41,self ,Female ,Lebanese ,9/29/2021,15:58:16,dyspnea ,Glucose ,Glucose ,204,25.61068,51.09108
+50,Dr_B_Safadi ,General_Surgery,No,88,self ,Male ,Indian ,10/1/2021,16:58:16,chest pain ,urine_analysis ,urine_analysis ,234,26.02565,51.36971
+93,Dr_J_Achkar ,ENT,Yes,45,self ,Male ,Lebanese ,10/2/2021,17:58:16,dyspnea ,CBC,CBC,125,24.7437,50.83174
+64,Dr_J_Achkar ,ENT,No,71,self ,Male ,Indian ,10/3/2021,18:58:16,chest pain ,Ferritin,Ferritin,161,25.57744,51.48306
+65,Dr_B_Safadi ,General_Surgery,No,79,self ,Male ,Indian ,10/3/2021,19:58:16,chest pain ,TSH,TSH,55,25.46972,51.3975
+88,Dr_B_Safadi ,General_Surgery,No,66,self ,Male ,Lebanese ,10/3/2021,20:58:16,dyspnea ,Glucose,Glucose,55,25.28545,51.53096
+95,Dr_B_Safadi ,General_Surgery,Yes,66,self ,Male ,Lebanese ,10/4/2021,21:58:16,burn ,chem9 ,chem9 ,248,25.29194,51.42444
+9,Dr_B_Safadi ,General_Surgery,Yes,33,self ,Female ,Qatari ,10/7/2021,22:58:16,stomatch pain ,creatinine ,creatinine ,228,25.41524,51.40647
+70,Dr_R_Ahdab ,Neurology,Yes,75,self ,Male ,Lebanese ,10/7/2021,23:58:16,chest pain ,urine_analysis ,urine_analysis ,217,25.17151,51.60337
+5,Dr_O_Dbouni ,ID,No,11,insurance ,Female ,Qatari ,10/8/2021,0:58:16,stomatch pain ,CBC,CBC,156,25.68389,51.50583
+49,Dr_B_Safadi ,General_Surgery,Yes,91,insurance ,Male ,Indian ,10/8/2021,1:58:16,chest pain ,Ferritin,Ferritin,211,25.37088,51.22264
+74,Dr_B_Safadi ,General_Surgery,No,66,insurance ,Female ,Lebanese ,10/8/2021,2:58:16,dyspnea ,TSH,TSH,79,25.42485,50.78227
+83,Dr_B_Safadi ,General_Surgery,Yes,11,insurance ,Male ,Lebanese ,10/8/2021,3:58:16,dyspnea ,Glucose,Glucose,217,24.99226,51.55067
+67,Dr_B_Safadi ,General_Surgery,Yes,45,insurance ,Male ,Indian ,10/10/2021,4:58:16,chest pain ,chem9 ,chem9 ,233,26.12933,51.2009
+92,Dr_B_Safadi ,General_Surgery,Yes,82,insurance ,Male ,Lebanese ,10/10/2021,5:58:16,dyspnea ,creatinine ,creatinine ,225,25.15107,51.53718
+46,Dr_B_Safadi ,General_Surgery,No,15,insurance ,Male ,Indian ,10/13/2021,6:58:16,vomiting ,urine_analysis ,urine_analysis ,95,25.29194,51.42444
+53,Dr_B_Safadi ,General_Surgery,No,7,insurance ,Male ,Indian ,10/14/2021,7:58:16,chest pain ,CBC,CBC,141,25.21417,50.80722
+38,Dr_B_Safadi ,General_Surgery,No,71,insurance ,Male ,American ,10/18/2021,8:58:16,vomiting ,Ferritin,Ferritin,213,25.82882,51.24567
+71,Dr_B_Safadi ,General_Surgery,Yes,79,insurance ,Female ,Lebanese ,10/19/2021,9:58:16,dyspnea ,TSH,TSH,151,25.61068,51.09108
+7,Dr_B_Safadi ,General_Surgery,No,18,insurance ,Female ,Qatari ,10/20/2021,10:58:16,stomatch pain ,Glucose,Glucose,106,26.02565,51.36971
+24,Dr_B_Safadi ,General_Surgery,Yes,88,insurance ,Male ,American ,10/20/2021,11:58:16,stomatch pain ,chem9 ,chem9 ,161,24.7437,50.83174
+16,Dr_H_Ismaeel ,Cardiology,Yes,69,insurance ,Male ,Qatari ,10/23/2021,12:58:16,stomatch pain ,creatinine ,creatinine ,55,25.57744,51.48306
+18,Dr_H_Ismaeel ,Cardiology,No,75,insurance ,Male ,American ,10/23/2021,13:58:16,stomatch pain ,creatinine ,creatinine ,84,25.46972,51.3975
+78,Dr_H_Ismaeel ,Cardiology,Yes,75,insurance ,Female ,Lebanese ,10/23/2021,14:58:16,dyspnea ,creatinine ,creatinine ,190,25.28545,51.53096
+45,Dr_B_Safadi ,General_Surgery,No,79,insurance ,Male ,Indian ,10/24/2021,15:58:16,vomiting ,creatinine ,creatinine ,208,25.29194,51.42444
+35,Dr_R_Ahdab ,Neurology,No,33,insurance ,Male ,American ,10/26/2021,16:58:16,vomiting ,creatinine ,creatinine ,64,25.41524,51.40647
+41,Dr_O_Dbouni ,ID,Yes,45,insurance ,Male ,Indian ,10/26/2021,17:58:16,vomiting ,creatinine ,creatinine ,168,25.17151,51.60337
+62,Dr_B_Safadi ,General_Surgery,No,66,insurance ,Male ,Indian ,10/29/2021,18:58:16,chest pain ,creatinine ,creatinine ,210,25.68389,51.50583
+27,Dr_B_Safadi ,General_Surgery,No,7,insurance ,Male ,American ,11/2/2021,18:58:16,stomatch pain ,CBC,CBC,132,25.37088,51.22264
+63,Dr_B_Safadi ,General_Surgery,No,58,insurance ,Male ,Indian ,11/2/2021,18:58:16,chest pain ,Ferritin,Ferritin,245,25.42485,50.78227
+43,Dr_B_Safadi ,General_Surgery,Yes,66,insurance ,Male ,Indian ,11/5/2021,18:58:16,vomiting ,urine_analysis ,urine_analysis ,156,24.99226,51.55067
+90,Dr_B_Safadi ,General_Surgery,No,71,insurance ,Male ,Lebanese ,11/10/2021,18:58:16,dyspnea ,chem9,chem9,144,26.12933,51.2009
+26,Dr_B_Safadi ,General_Surgery,Yes,75,insurance ,Male ,American ,11/11/2021,18:58:16,stomatch pain ,creatinine,creatinine,69,25.15107,51.53718
+31,Dr_A_Haydar,Radiology ,No,11,insurance ,Male ,American ,11/12/2021,0:58:16,vomiting ,glucose ,glucose ,234,26.13978,51.21493
+36,Dr_A_Haydar,Radiology ,No,66,insurance ,Male ,American ,11/14/2021,1:58:16,vomiting ,sodium ,sodium ,190,25.21417,50.80722
+42,Dr_A_Haydar,Radiology ,No,69,insurance ,Male ,Indian ,11/17/2021,2:58:16,vomiting ,CBC,CBC,197,25.82882,51.24567
+1,Dr_B_Safadi ,General_Surgery,Yes,7,insurance ,Male ,Qatari ,11/18/2021,3:58:16,stomatch pain ,Ferritin,Ferritin,208,25.61068,51.09108
+44,Dr_B_Safadi ,General_Surgery,Yes,75,insurance ,Male ,Indian ,11/19/2021,4:58:16,vomiting ,urine_analysis ,urine_analysis ,105,26.02565,51.36971
+91,Dr_B_Safadi ,General_Surgery,No,79,insurance ,Male ,Lebanese ,11/19/2021,5:58:16,dyspnea ,chem9,chem9,128,24.7437,50.83174
+17,Dr_B_Safadi ,General_Surgery,No,66,insurance ,Male ,Qatari ,11/20/2021,6:58:16,stomatch pain ,creatinine,creatinine,149,25.57744,51.48306
+2,Dr_B_Safadi ,General_Surgery,Yes,8,insurance ,Female ,Qatari ,11/21/2021,8:58:16,stomatch pain ,glucose ,glucose ,165,25.46972,51.3975
+22,Dr_B_Safadi ,General_Surgery,Yes,66,insurance ,Male ,American ,11/23/2021,8:58:16,stomatch pain ,sodium ,sodium ,222,25.28545,51.53096
+52,Dr_B_Safadi ,General_Surgery,No,75,insurance ,Male ,Indian ,11/23/2021,9:58:16,chest pain ,CBC,CBC,178,25.29194,51.42444
+72,Dr_J_Achkar ,ENT,No,15,insurance ,Female ,Lebanese ,11/23/2021,10:58:16,dyspnea ,Ferritin,Ferritin,103,25.41524,51.40647
+80,Dr_J_Achkar ,ENT,Yes,8,insurance ,Female ,Lebanese ,11/23/2021,11:58:16,dyspnea ,urine_analysis ,urine_analysis ,105,25.17151,51.60337
+30,Dr_J_Achkar ,ENT,Yes,10,insurance ,Male ,American ,11/24/2021,12:58:16,vomiting ,chem9,chem9,128,25.68389,51.50583
+15,Dr_B_Safadi ,General_Surgery,Yes,45,insurance ,Male ,Qatari ,11/25/2021,13:58:16,stomatch pain ,creatinine,creatinine,122,25.37088,51.22264
+76,Dr_R_Ahdab ,Neurology,No,88,insurance ,Female ,Lebanese ,11/25/2021,14:58:16,dyspnea ,creatinine,creatinine,85,25.42485,50.78227
+23,Dr_O_Dbouni ,ID,No,91,insurance ,Male ,American ,11/26/2021,15:58:16,stomatch pain ,creatinine,creatinine,65,24.99226,51.55067
+19,Dr_R_Ahdab ,Neurology,Yes,79,insurance ,Male ,American ,11/27/2021,16:58:16,stomatch pain ,creatinine,creatinine,66,26.12933,51.2009
+48,Dr_O_Dbouni ,ID,Yes,66,insurance ,Male ,Indian ,11/27/2021,17:58:16,chest pain ,creatinine,creatinine,223,25.15107,51.53718
+68,Dr_B_Safadi ,General_Surgery,No,69,insurance ,Male ,Indian ,11/28/2021,18:58:16,chest pain ,creatinine,creatinine,131,26.13978,51.21493
+13,Dr_B_Safadi ,General_Surgery,No,79,insurance ,Female ,Qatari ,11/29/2021,19:58:16,stomatch pain ,creatinine,creatinine,82,25.46972,51.3975
+98,Dr_B_Safadi ,General_Surgery,Yes,15,insurance ,Male ,Lebanese ,11/30/2021,19:58:16,burn ,creatinine,creatinine,74,25.28545,51.53096
+55,Dr_B_Safadi ,General_Surgery,No,9,insurance ,Male ,Indian ,12/2/2021,19:58:16,chest pain ,CBC,CBC,118,25.29194,51.42444
+12,Dr_B_Safadi ,General_Surgery,Yes,71,insurance ,Female ,Qatari ,12/4/2021,19:58:16,stomatch pain ,chem9,chem9,159,25.41524,51.40647
+14,Dr_R_Ahdab ,Neurology,No,82,insurance ,Female ,Qatari ,12/8/2021,19:58:16,stomatch pain ,urine_analysis ,urine_analysis ,190,25.17151,51.60337
+32,Dr_O_Dbouni ,ID,No,25,insurance ,Male ,American ,12/8/2021,0:58:16,vomiting ,Ferritin,Ferritin,102,25.68389,51.50583
+82,Dr_B_Safadi ,General_Surgery,No,10,insurance ,Female ,Lebanese ,12/8/2021,1:58:16,dyspnea ,Glucose,Glucose,162,25.37088,51.22264
+3,Dr_B_Safadi ,General_Surgery,Yes,9,insurance ,Female ,Qatari ,12/10/2021,2:58:16,stomatch pain ,Sodium ,Sodium ,239,25.42485,50.78227
+81,Dr_B_Safadi ,General_Surgery,No,9,insurance ,Female ,Lebanese ,12/10/2021,3:58:16,dyspnea ,creatinine ,creatinine ,149,24.99226,51.55067
+61,Dr_B_Safadi ,General_Surgery,Yes,33,insurance ,Male ,Indian ,12/11/2021,4:58:16,chest pain ,CBC,CBC,210,25.21417,50.80722
+28,Dr_A_Haydar,Radiology ,No,8,insurance ,Male ,American ,12/15/2021,5:58:16,stomatch pain ,chem9,chem9,235,25.82882,51.24567
+66,Dr_A_Haydar,Radiology ,Yes,82,insurance ,Male ,Indian ,12/15/2021,6:58:16,chest pain ,urine_analysis ,urine_analysis ,133,25.61068,51.09108
+89,Dr_R_Ahdab ,Neurology,No,58,insurance ,Male ,Lebanese ,12/16/2021,8:58:16,dyspnea ,Ferritin,Ferritin,150,26.02565,51.36971
+58,Dr_O_Dbouni ,ID,Yes,25,insurance ,Male ,Indian ,12/18/2021,8:58:16,chest pain ,Glucose,Glucose,233,24.7437,50.83174
+25,Dr_B_Safadi ,General_Surgery,No,78,insurance ,Male ,American ,12/19/2021,9:58:16,stomatch pain ,Sodium ,Sodium ,189,25.57744,51.48306
+77,Dr_B_Safadi ,General_Surgery,No,78,insurance ,Female ,Lebanese ,12/19/2021,10:58:16,dyspnea ,creatinine ,creatinine ,185,25.46972,51.3975
+56,Dr_B_Safadi ,General_Surgery,Yes,10,insurance ,Male ,Indian ,12/20/2021,11:58:16,chest pain ,creatinine ,creatinine ,105,25.28545,51.53096
+21,Dr_B_Safadi ,General_Surgery,Yes,41,insurance ,Male ,American ,12/25/2021,12:58:16,stomatch pain ,creatinine ,creatinine ,248,25.29194,51.42444
+4,Dr_B_Safadi ,General_Surgery,Yes,10,insurance ,Female ,Qatari ,12/26/2021,13:58:16,stomatch pain ,creatinine ,creatinine ,158,25.41524,51.40647
+20,Dr_B_Safadi ,General_Surgery,Yes,15,insurance ,Male ,American ,12/27/2021,14:58:16,stomatch pain ,creatinine ,creatinine ,112,25.17151,51.60337
+96,Dr_B_Safadi ,General_Surgery,Yes,75,insurance ,Male ,Lebanese ,12/28/2021,15:58:16,burn ,creatinine ,creatinine ,247,25.68389,51.50583
+97,Dr_A_Haydar,Radiology ,No,79,insurance ,Male ,Lebanese ,12/29/2021,16:58:16,burn ,creatinine ,creatinine ,138,25.37088,51.22264
+77,Dr_A_Haydar,Radiology ,Yes,78,insurance ,Female ,Lebanese ,12/19/2021,10:58:16,dyspnea ,creatinine ,creatinine ,140,25.37088,51.50583
